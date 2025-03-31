@@ -1,0 +1,18 @@
+Is date1 valid? true
+Is date2 valid? true
+Is date3 valid? true
+Is date4 valid? false
+Date updated successfully.
+Updated date4:
+February 28, 2023
+Day of the week for date1: Sunday
+Difference between date1 and date3: -504 days
+
+Sorted dates:
+August 15, 2021
+January 1, 2023
+February 28, 2023
+February 29, 2024
+
+
+** Process exited - Return Code: 0 **
