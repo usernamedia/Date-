@@ -25,24 +25,6 @@ This project covers the basics of object-oriented programming in Java, including
     - One of the biggest challenges was handling leap years and ensuring the validation method could correctly identify valid and invalid dates, such as February 29 on non-leap years.
     - I also learned how to use the `Comparable` interface to sort objects in Java, which I had not previously worked with.
 
- # Java Date Class Project
-
-## Project Overview
-
-This project involves implementing a `Date` class in Java to represent dates and perform various operations such as validating dates, checking leap years, calculating the difference between two dates, and printing the day of the week. The project also demonstrates how to sort a list of `Date` objects.
-
-The `Date` class includes the following features:
-
-- **Attributes**: day, month, and year
-- **Methods**: 
-  - `isValidDate()`: Validates if a date is valid, considering leap years.
-  - `updateDate(int day, int month, int year)`: Updates the date after validating the input.
-  - `getDayOfWeek()`: Returns the day of the week for the given date.
-  - `calculateDifference(Date otherDate)`: Computes the difference in days between two dates.
-  - `printDate()`: Prints the date in a readable format.
-  - `compareTo(Date otherDate)`: Implements `Comparable<Date>` for sorting dates.
-  
-This project demonstrates how to perform these operations and handle valid and invalid date inputs, allowing users to see how dates can be managed programmatically.
 
 ## Compilation and Execution Instructions
 
