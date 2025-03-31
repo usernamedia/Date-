@@ -18,7 +18,7 @@ This project serves as an introduction to object-oriented programming and Javaâ€
    Clone the repository to your local machine using Git:
    ```bash
    git clone https://github.com/usernamedia/Java-Date-Class.git
-   ## Additional Notes or Challenges
+ ## Additional Notes or Challenges
 
 - **Challenges Faced**:
    - **Date Validation**: Ensuring accurate date validation, especially for leap years, was a key challenge. The logic had to account for different month lengths and handle the edge cases of February 29th.
